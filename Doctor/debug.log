@@ -1,0 +1,25 @@
+[2025-04-06 14:25:56] Received form data: patient_id=0, doctor_id=, visit_date=, reason=, notes_outcome=
+[2025-04-06 14:25:56] Validation failed: Invalid input data
+[2025-04-06 14:26:39] Received form data: patient_id=0, doctor_id=, visit_date=, reason=, notes_outcome=
+[2025-04-06 14:26:39] Validation failed: Invalid input data
+[2025-04-06 14:27:59] Received form data: patient_id=0, doctor_id=, visit_date=, reason=, notes_outcome=
+[2025-04-06 14:27:59] Validation failed: Invalid input data
+[2025-04-06 14:28:06] Received form data: patient_id=0, doctor_id=, visit_date=, reason=, notes_outcome=
+[2025-04-06 14:28:06] Validation failed: Invalid input data
+[2025-04-06 14:28:07] Received form data: patient_id=0, doctor_id=, visit_date=, reason=, notes_outcome=
+[2025-04-06 14:28:07] Validation failed: Invalid input data
+[2025-04-06 14:28:08] Received form data: patient_id=0, doctor_id=, visit_date=, reason=, notes_outcome=
+[2025-04-06 14:28:08] Validation failed: Invalid input data
+[2025-04-06 14:28:48] Received form data: patient_id=0, doctor_id=, visit_date=, reason=, notes_outcome=
+[2025-04-06 14:28:48] Validation failed: Invalid input data
+[2025-04-07 00:16:48] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
+[2025-04-07 00:33:24] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
+[2025-04-07 08:20:24] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
+[2025-04-07 08:40:54] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
+[2025-04-07 08:40:56] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
+[2025-04-07 08:40:57] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
+[2025-04-07 09:07:18] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
+[2025-04-07 09:33:36] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
+[2025-04-07 09:38:18] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
+[2025-04-07 09:49:49] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
+[2025-04-07 10:21:50] Database error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hospital_management.schedules' doesn't exist
